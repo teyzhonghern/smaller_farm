@@ -3,7 +3,7 @@
   <model name='farm_model1'>
     <static>true</static>
     <link name='link'>
-      <pose>0 0 0 -1.570796 3.141592 0</pose>
+      <pose>00 0 0.3 -1.570796 0 0</pose>
 
       <collision name='collision'>
         <geometry>
